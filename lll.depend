@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1496334011 source:/home/lan/Escritorio/prac1/lll/main.cpp
+	<string>
+	<iostream>
+	<torre.h>
+	<avion.h>
+	<arreglopersona.h>
+	<gerente.h>
+	<conserge.h>
+
+1496333657 source:/home/lan/Escritorio/prac1/lll/src/conserge.cpp
+	"conserge.h"
+
+1496333247 /home/lan/Escritorio/prac1/lll/include/conserge.h
+	"persona.h"
+
+1496333645 source:/home/lan/Escritorio/prac1/lll/src/gerente.cpp
+	"gerente.h"
+	<iostream>
+
+1496333245 /home/lan/Escritorio/prac1/lll/include/gerente.h
+	"persona.h"
+
+1496333778 source:/home/lan/Escritorio/prac1/lll/src/birtday.cpp
+	"birtday.h"
+
+1496333689 /home/lan/Escritorio/prac1/lll/include/birtday.h
+	<iostream>
+
+1496333255 /home/lan/Escritorio/prac1/lll/include/persona.h
+	<string>
+	<iostream>
+	"birtday.h"
+
+1496290890 source:/home/lan/Escritorio/prac1/lll/src/persona.cpp
+	"persona.h"
+
+1496292000 source:/home/lan/Escritorio/prac1/lll/src/arreglopersona.cpp
+	"arreglopersona.h"
+
+1496292009 /home/lan/Escritorio/prac1/lll/include/arreglopersona.h
+	"persona.h"
+
+1496329639 source:/home/lan/Escritorio/prac1/lll/src/avion.cpp
+	"avion.h"
+
+1496328684 /home/lan/Escritorio/prac1/lll/include/avion.h
+	<iostream>
+
+1496277274 source:/home/lan/Escritorio/prac1/lll/src/torre.cpp
+	"torre.h"
+
+1496276058 /home/lan/Escritorio/prac1/lll/include/torre.h
+	<vector>
+	<avion.h>
+
